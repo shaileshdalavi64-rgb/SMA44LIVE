@@ -1,0 +1,6 @@
+{
+  "name": "SMA 44 Scanner",
+  "description": "Indian market 44 SMA rising and falling stock scanner with live price data feed, real-time alerts, and backtesting capabilities",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
